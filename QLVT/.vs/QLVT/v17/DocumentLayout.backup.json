@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\frmqlvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmqlvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\gui_qlvt\\frmcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmcho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\frmchitietphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmchitietphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\gui_qlvt\\frmchitietphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmchitietphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\gui_qlvt\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0222A53-CB8A-41AC-9874-11987401E5D8}|DTO_QLVT\\DTO_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\dto_qlvt\\phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0222A53-CB8A-41AC-9874-11987401E5D8}|DTO_QLVT\\DTO_QLVT.csproj|solutionrelative:dto_qlvt\\phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\gui_qlvt\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|d:\\work\\ky6\\block_2\\pro231\\project\\quan\\duancuoimon_qlvt\\xuong02_qlvt\\gui_qlvt\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2BE01D-C8B5-49BD-A796-8DE9FA487651}|GUI_QLVT\\GUI_QLVT.csproj|solutionrelative:gui_qlvt\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\Program.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\Program.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\Program.cs",
+              "RelativeToolTip": "GUI_QLVT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:46:13.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmQLVatTu.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmQLVatTu.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmQLVatTu.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmQLVatTu.cs",
+              "RelativeToolTip": "GUI_QLVT\\frmQLVatTu.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAswDsBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:02:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCho.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmCho.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmCho.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmCho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmCho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:53:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputBox.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\InputBox.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\InputBox.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\InputBox.cs",
+              "RelativeToolTip": "GUI_QLVT\\InputBox.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:51:40.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmChiTietDonHang.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietDonHang.cs",
+              "RelativeToolTip": "GUI_QLVT\\frmChiTietDonHang.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:50:29.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChiTietPhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmChiTietPhieuNhapKho.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietPhieuNhapKho.cs",
+              "RelativeToolTip": "GUI_QLVT\\frmChiTietPhieuNhapKho.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:41:16.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmChiTietPhieuNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmChiTietPhieuNhapKho.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietPhieuNhapKho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmChiTietPhieuNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:48:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmMain.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmMain.cs",
+              "RelativeToolTip": "GUI_QLVT\\frmMain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:43:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmMain.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:43:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\DTO_QLVT\\PhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "DTO_QLVT\\PhieuNhapKho.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\DTO_QLVT\\PhieuNhapKho.cs",
+              "RelativeToolTip": "DTO_QLVT\\PhieuNhapKho.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:38:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmPhieuNhapKho.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmPhieuNhapKho.cs",
+              "RelativeToolTip": "GUI_QLVT\\frmPhieuNhapKho.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:34:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPhieuNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\frmPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "GUI_QLVT\\frmPhieuNhapKho.cs",
+              "ToolTip": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmPhieuNhapKho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\An\\DuAnCM\\Xuong02_QLVT\\GUI_QLVT\\frmPhieuNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:34:31.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
