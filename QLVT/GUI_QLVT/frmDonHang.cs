@@ -74,7 +74,7 @@ namespace GUI_QLVT
 
         private void LoadDSDon(string maThe)
         {
-            BLLDonHang bLLDonHang = new BLLDonHang(); // Create an instance of BLLDonHang  
+            BUSDonHang bLLDonHang = new BUSDonHang(); // Create an instance of BLLDonHang  
             List<DonHang> lst = bLLDonHang.GetListDonHang(maThe); // Use the instance to call the method  
             if (!AuthUtil.user.VaiTro)
             {
@@ -143,7 +143,7 @@ namespace GUI_QLVT
                 TrangThai = trangThai,
                 GhiChu = ghiChu,
             };
-            BLLDonHang bus = new BLLDonHang();
+            BUSDonHang bus = new BUSDonHang();
             string result = bus.InsertDonHang(donHang);
 
             if (string.IsNullOrEmpty(result))
@@ -195,7 +195,7 @@ namespace GUI_QLVT
 
             if (result == DialogResult.Yes)
             {
-                BLLDonHang bus = new BLLDonHang();
+                BUSDonHang bus = new BUSDonHang();
                 string kq = bus.DeleteDonHang(maDon);
 
                 if (string.IsNullOrEmpty(kq))
@@ -240,7 +240,7 @@ namespace GUI_QLVT
                 TrangThai = trangThai,
                 GhiChu = ghiChu,
             };
-            BLLDonHang bus = new BLLDonHang();
+            BUSDonHang bus = new BUSDonHang();
             string result = bus.UpdateDonHang(donHang);
 
             if (string.IsNullOrEmpty(result))
@@ -260,7 +260,7 @@ namespace GUI_QLVT
 
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
-            BLLDonHang busDonHang = new BLLDonHang();
+            BUSDonHang busDonHang = new BUSDonHang();
             string maDH = txtTimKiem.Text.Trim();
             if (string.IsNullOrEmpty(maDH))
             {

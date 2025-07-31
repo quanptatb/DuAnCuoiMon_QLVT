@@ -68,13 +68,6 @@ namespace GUI_QLVT
                 dgvKetQua.ColumnHeadersVisible = true;
                 BUSChatbot.LastResult = null; // reset
             }
-            else if (BUSChatbot.LastDataSet != null && BUSChatbot.LastDataSet.Tables.Count > 0)
-            {
-                dgvKetQua.AutoGenerateColumns = true;
-                dgvKetQua.DataSource = BUSChatbot.LastDataSet.Tables[0];  // Hiện bảng đầu tiên
-                dgvKetQua.ColumnHeadersVisible = true;
-                BUSChatbot.LastDataSet = null; // reset
-            }
             else
             {
                 // Không có dữ liệu để hiển thị bảng

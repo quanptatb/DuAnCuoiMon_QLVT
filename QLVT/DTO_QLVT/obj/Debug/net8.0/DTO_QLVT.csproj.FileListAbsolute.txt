@@ -78,3 +78,15 @@ D:\Work\Ky6\Block_2\PRO231\Project\An\DuAnCM\Xuong02_QLVT\DTO_QLVT\obj\Debug\net
 D:\Work\Ky6\Block_2\PRO231\Project\An\DuAnCM\Xuong02_QLVT\DTO_QLVT\obj\Debug\net8.0\refint\DTO_QLVT.dll
 D:\Work\Ky6\Block_2\PRO231\Project\An\DuAnCM\Xuong02_QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.pdb
 D:\Work\Ky6\Block_2\PRO231\Project\An\DuAnCM\Xuong02_QLVT\DTO_QLVT\obj\Debug\net8.0\ref\DTO_QLVT.dll
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\bin\Debug\net8.0\DTO_QLVT.deps.json
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\bin\Debug\net8.0\DTO_QLVT.dll
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\bin\Debug\net8.0\DTO_QLVT.pdb
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.AssemblyInfoInputs.cache
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.AssemblyInfo.cs
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.csproj.CoreCompileInputs.cache
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.sourcelink.json
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.dll
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\refint\DTO_QLVT.dll
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\DTO_QLVT.pdb
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\DTO_QLVT\obj\Debug\net8.0\ref\DTO_QLVT.dll

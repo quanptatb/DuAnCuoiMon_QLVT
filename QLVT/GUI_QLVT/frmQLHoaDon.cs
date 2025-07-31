@@ -256,7 +256,7 @@ namespace GUI_QLVT
         }
         private void LoadMaDonHang()
         {
-            BLLDonHang bLLDonHang = new BLLDonHang();
+            BUSDonHang bLLDonHang = new BUSDonHang();
             List<DonHang> lstDonHang = bLLDonHang.GetListDonHang("");
             cboMaDonHang.DataSource = null;
             cboMaDonHang.DataSource = lstDonHang;

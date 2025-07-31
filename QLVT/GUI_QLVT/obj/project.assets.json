@@ -1879,11 +1879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\GUI_QLVT.csproj",
+      "projectUniqueName": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\GUI_QLVT\\GUI_QLVT.csproj",
       "projectName": "GUI_QLVT",
-      "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\GUI_QLVT.csproj",
+      "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\GUI_QLVT\\GUI_QLVT.csproj",
       "packagesPath": "C:\\Users\\Cua\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\GUI_QLVT\\obj\\",
+      "outputPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\GUI_QLVT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1904,14 +1904,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\BLL_QLVT\\BLL_QLVT.csproj": {
-              "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\BLL_QLVT\\BLL_QLVT.csproj"
+            "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\BLL_QLVT\\BLL_QLVT.csproj": {
+              "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\BLL_QLVT\\BLL_QLVT.csproj"
             },
-            "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\DTO_QLVT\\DTO_QLVT.csproj": {
-              "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\DTO_QLVT\\DTO_QLVT.csproj"
+            "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\DTO_QLVT\\DTO_QLVT.csproj": {
+              "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\DTO_QLVT\\DTO_QLVT.csproj"
             },
-            "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\UTIL_QLVT\\UTIL_QLVT.csproj": {
-              "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\Xuong02_QLVT\\UTIL_QLVT\\UTIL_QLVT.csproj"
+            "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\UTIL_QLVT\\UTIL_QLVT.csproj": {
+              "projectPath": "D:\\Work\\Ky6\\Block_2\\PRO231\\Project\\Quan\\DuAnCuoiMon_QLVT\\QLVT\\UTIL_QLVT\\UTIL_QLVT.csproj"
             }
           }
         }
