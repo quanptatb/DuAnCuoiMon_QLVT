@@ -122,7 +122,7 @@
             dtpNgayNhap.CustomizableEdges = customizableEdges1;
             dtpNgayNhap.FillColor = Color.White;
             dtpNgayNhap.Font = new Font("Segoe UI", 12F);
-            dtpNgayNhap.Format = DateTimePickerFormat.Long;
+            dtpNgayNhap.Format = DateTimePickerFormat.Custom;
             dtpNgayNhap.Location = new Point(409, 388);
             dtpNgayNhap.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             dtpNgayNhap.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
@@ -493,10 +493,10 @@
             // tabPage2
             // 
             tabPage2.Controls.Add(guna2GroupBox1);
-            tabPage2.Location = new Point(4, 30);
+            tabPage2.Location = new Point(4, 24);
             tabPage2.Name = "tabPage2";
             tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(1637, 924);
+            tabPage2.Size = new Size(1637, 930);
             tabPage2.TabIndex = 1;
             tabPage2.Text = "Danh sách";
             tabPage2.UseVisualStyleBackColor = true;

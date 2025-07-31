@@ -167,7 +167,7 @@
             label3.Font = new Font("Segoe UI", 12F);
             label3.Location = new Point(1118, 86);
             label3.Name = "label3";
-            label3.Size = new Size(123, 28);
+            label3.Size = new Size(99, 21);
             label3.TabIndex = 28;
             label3.Text = "Giảm giá (%)";
             // 
@@ -178,7 +178,7 @@
             label4.Font = new Font("Segoe UI", 12F);
             label4.Location = new Point(1118, 156);
             label4.Name = "label4";
-            label4.Size = new Size(78, 28);
+            label4.Size = new Size(63, 21);
             label4.TabIndex = 27;
             label4.Text = "Ghi chú";
             // 
@@ -188,7 +188,7 @@
             dtpNgayKetThuc.CustomizableEdges = customizableEdges5;
             dtpNgayKetThuc.FillColor = Color.Transparent;
             dtpNgayKetThuc.Font = new Font("Segoe UI", 12F);
-            dtpNgayKetThuc.Format = DateTimePickerFormat.Long;
+            dtpNgayKetThuc.Format = DateTimePickerFormat.Custom;
             dtpNgayKetThuc.Location = new Point(774, 141);
             dtpNgayKetThuc.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             dtpNgayKetThuc.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
@@ -204,7 +204,7 @@
             dtpNgayBatDau.CustomizableEdges = customizableEdges7;
             dtpNgayBatDau.FillColor = Color.Transparent;
             dtpNgayBatDau.Font = new Font("Segoe UI", 12F);
-            dtpNgayBatDau.Format = DateTimePickerFormat.Long;
+            dtpNgayBatDau.Format = DateTimePickerFormat.Custom;
             dtpNgayBatDau.Location = new Point(774, 71);
             dtpNgayBatDau.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             dtpNgayBatDau.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
@@ -221,7 +221,7 @@
             label1.Font = new Font("Segoe UI", 12F);
             label1.Location = new Point(608, 86);
             label1.Name = "label1";
-            label1.Size = new Size(131, 28);
+            label1.Size = new Size(103, 21);
             label1.TabIndex = 24;
             label1.Text = "Ngày bắt đầu";
             // 
@@ -232,7 +232,7 @@
             label2.Font = new Font("Segoe UI", 12F);
             label2.Location = new Point(608, 156);
             label2.Name = "label2";
-            label2.Size = new Size(134, 28);
+            label2.Size = new Size(106, 21);
             label2.TabIndex = 23;
             label2.Text = "Ngày kết thúc";
             // 
@@ -354,7 +354,7 @@
             label10.Font = new Font("Segoe UI", 12F);
             label10.Location = new Point(53, 86);
             label10.Name = "label10";
-            label10.Size = new Size(116, 28);
+            label10.Size = new Size(93, 21);
             label10.TabIndex = 17;
             label10.Text = "Mã Voucher";
             // 
@@ -365,7 +365,7 @@
             label7.Font = new Font("Segoe UI", 12F);
             label7.Location = new Point(53, 156);
             label7.Name = "label7";
-            label7.Size = new Size(117, 28);
+            label7.Size = new Size(94, 21);
             label7.TabIndex = 14;
             label7.Text = "Tên Voucher";
             // 
@@ -439,7 +439,6 @@
             dgvDSQLVoucher.ReadOnly = true;
             dgvDSQLVoucher.RowHeadersVisible = false;
             dgvDSQLVoucher.RowHeadersWidth = 51;
-            dgvDSQLVoucher.RowTemplate.Height = 25;
             dgvDSQLVoucher.Size = new Size(1633, 409);
             dgvDSQLVoucher.TabIndex = 2;
             dgvDSQLVoucher.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
@@ -507,7 +506,7 @@
             // 
             // frmVoucher
             // 
-            AutoScaleDimensions = new SizeF(11F, 28F);
+            AutoScaleDimensions = new SizeF(9F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1644, 917);
             Controls.Add(guna2GroupBox2);

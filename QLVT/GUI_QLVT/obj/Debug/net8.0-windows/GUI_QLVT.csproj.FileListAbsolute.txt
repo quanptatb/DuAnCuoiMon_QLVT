@@ -739,3 +739,6 @@ D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\obj\Debug
 D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\obj\Debug\net8.0-windows\GUI_QLVT.pdb
 D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\obj\Debug\net8.0-windows\GUI_QLVT.genruntimeconfig.cache
 D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\obj\Debug\net8.0-windows\ref\GUI_QLVT.dll
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\bin\Debug\net8.0-windows\GUI_QLVT.dll.config
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Ky6\Block_2\PRO231\Project\Quan\DuAnCuoiMon_QLVT\QLVT\GUI_QLVT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll

@@ -106,49 +106,49 @@
             // 
             txtTimKiem.Location = new Point(1211, 59);
             txtTimKiem.Name = "txtTimKiem";
-            txtTimKiem.Size = new Size(353, 39);
+            txtTimKiem.Size = new Size(353, 32);
             txtTimKiem.TabIndex = 30;
             // 
             // txtGhiChu
             // 
             txtGhiChu.Location = new Point(613, 585);
             txtGhiChu.Name = "txtGhiChu";
-            txtGhiChu.Size = new Size(564, 39);
+            txtGhiChu.Size = new Size(564, 32);
             txtGhiChu.TabIndex = 16;
             // 
             // txtSoDienThoai
             // 
             txtSoDienThoai.Location = new Point(376, 293);
             txtSoDienThoai.Name = "txtSoDienThoai";
-            txtSoDienThoai.Size = new Size(383, 39);
+            txtSoDienThoai.Size = new Size(383, 32);
             txtSoDienThoai.TabIndex = 12;
             // 
             // txtDiaChi
             // 
             txtDiaChi.Location = new Point(376, 424);
             txtDiaChi.Name = "txtDiaChi";
-            txtDiaChi.Size = new Size(383, 39);
+            txtDiaChi.Size = new Size(383, 32);
             txtDiaChi.TabIndex = 11;
             // 
             // txtTenNhaCungCap
             // 
             txtTenNhaCungCap.Location = new Point(1075, 174);
             txtTenNhaCungCap.Name = "txtTenNhaCungCap";
-            txtTenNhaCungCap.Size = new Size(383, 39);
+            txtTenNhaCungCap.Size = new Size(383, 32);
             txtTenNhaCungCap.TabIndex = 10;
             // 
             // txtMaNhaCungCap
             // 
             txtMaNhaCungCap.Location = new Point(376, 174);
             txtMaNhaCungCap.Name = "txtMaNhaCungCap";
-            txtMaNhaCungCap.Size = new Size(383, 39);
+            txtMaNhaCungCap.Size = new Size(383, 32);
             txtMaNhaCungCap.TabIndex = 9;
             // 
             // txtEmail
             // 
             txtEmail.Location = new Point(1075, 293);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(383, 39);
+            txtEmail.Size = new Size(383, 32);
             txtEmail.TabIndex = 32;
             // 
             // guna2HtmlLabel6
@@ -158,7 +158,7 @@
             guna2HtmlLabel6.ForeColor = Color.Black;
             guna2HtmlLabel6.Location = new Point(854, 302);
             guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            guna2HtmlLabel6.Size = new Size(50, 30);
+            guna2HtmlLabel6.Size = new Size(41, 23);
             guna2HtmlLabel6.TabIndex = 31;
             guna2HtmlLabel6.Text = "Email";
             // 
@@ -169,7 +169,7 @@
             guna2HtmlLabel1.ForeColor = Color.Black;
             guna2HtmlLabel1.Location = new Point(140, 183);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(152, 30);
+            guna2HtmlLabel1.Size = new Size(121, 23);
             guna2HtmlLabel1.TabIndex = 0;
             guna2HtmlLabel1.Text = "Mã nhà cung cấp";
             // 
@@ -180,7 +180,7 @@
             guna2HtmlLabel2.ForeColor = Color.Black;
             guna2HtmlLabel2.Location = new Point(854, 183);
             guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            guna2HtmlLabel2.Size = new Size(155, 30);
+            guna2HtmlLabel2.Size = new Size(124, 23);
             guna2HtmlLabel2.TabIndex = 1;
             guna2HtmlLabel2.Text = "Tên nhà cung cấp";
             // 
@@ -191,7 +191,7 @@
             guna2HtmlLabel3.ForeColor = Color.Black;
             guna2HtmlLabel3.Location = new Point(140, 302);
             guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            guna2HtmlLabel3.Size = new Size(119, 30);
+            guna2HtmlLabel3.Size = new Size(94, 23);
             guna2HtmlLabel3.TabIndex = 2;
             guna2HtmlLabel3.Text = "Số điện thoại";
             // 
@@ -202,7 +202,7 @@
             guna2HtmlLabel7.ForeColor = Color.Black;
             guna2HtmlLabel7.Location = new Point(503, 585);
             guna2HtmlLabel7.Name = "guna2HtmlLabel7";
-            guna2HtmlLabel7.Size = new Size(69, 30);
+            guna2HtmlLabel7.Size = new Size(56, 23);
             guna2HtmlLabel7.TabIndex = 6;
             guna2HtmlLabel7.Text = "Ghi chú";
             // 
@@ -213,7 +213,7 @@
             guna2HtmlLabel4.ForeColor = Color.Black;
             guna2HtmlLabel4.Location = new Point(140, 433);
             guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            guna2HtmlLabel4.Size = new Size(62, 30);
+            guna2HtmlLabel4.Size = new Size(50, 23);
             guna2HtmlLabel4.TabIndex = 3;
             guna2HtmlLabel4.Text = "Địa chỉ";
             // 
@@ -224,7 +224,7 @@
             guna2HtmlLabel5.ForeColor = Color.Black;
             guna2HtmlLabel5.Location = new Point(854, 433);
             guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            guna2HtmlLabel5.Size = new Size(84, 30);
+            guna2HtmlLabel5.Size = new Size(66, 23);
             guna2HtmlLabel5.TabIndex = 4;
             guna2HtmlLabel5.Text = "Ngày tạo";
             // 
@@ -268,7 +268,7 @@
             dtpNgayTao.CustomizableEdges = customizableEdges3;
             dtpNgayTao.FillColor = Color.White;
             dtpNgayTao.Font = new Font("Segoe UI", 12F);
-            dtpNgayTao.Format = DateTimePickerFormat.Long;
+            dtpNgayTao.Format = DateTimePickerFormat.Custom;
             dtpNgayTao.Location = new Point(1075, 418);
             dtpNgayTao.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             dtpNgayTao.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
@@ -420,7 +420,6 @@
             dgvDanhSachNhaCungCap.ReadOnly = true;
             dgvDanhSachNhaCungCap.RowHeadersVisible = false;
             dgvDanhSachNhaCungCap.RowHeadersWidth = 51;
-            dgvDanhSachNhaCungCap.RowTemplate.Height = 25;
             dgvDanhSachNhaCungCap.Size = new Size(1651, 696);
             dgvDanhSachNhaCungCap.TabIndex = 2;
             dgvDanhSachNhaCungCap.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
@@ -459,10 +458,10 @@
             // tabPage1
             // 
             tabPage1.Controls.Add(guna2GroupBox3);
-            tabPage1.Location = new Point(4, 37);
+            tabPage1.Location = new Point(4, 30);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(1653, 822);
+            tabPage1.Size = new Size(1653, 829);
             tabPage1.TabIndex = 0;
             tabPage1.Text = "Thông tin";
             tabPage1.UseVisualStyleBackColor = true;
@@ -470,17 +469,17 @@
             // tabPage2
             // 
             tabPage2.Controls.Add(guna2GroupBox2);
-            tabPage2.Location = new Point(4, 37);
+            tabPage2.Location = new Point(4, 24);
             tabPage2.Name = "tabPage2";
             tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(1653, 822);
+            tabPage2.Size = new Size(1653, 835);
             tabPage2.TabIndex = 1;
             tabPage2.Text = "Danh sách";
             tabPage2.UseVisualStyleBackColor = true;
             // 
             // frmQuanLyNhaCungCap
             // 
-            AutoScaleDimensions = new SizeF(11F, 28F);
+            AutoScaleDimensions = new SizeF(9F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(1673, 867);

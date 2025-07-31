@@ -6,12 +6,13 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
+using System.Configuration;
 
 namespace DAL_QLVT
 {
     public class DBUtil
     {
-        public static string connString = @"Data Source=DESKTOP-NPO91IS\SQLEXPRESS;Initial Catalog=QuanLyVatTuXayDung;Integrated Security=True;Trust Server Certificate=True";
+        public static string connString = ConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString;
 
         public static SqlCommand GetCommand(string sql, List<object> args, CommandType cmdType)
         {

@@ -5,12 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
+using System.Configuration;
 
 namespace DAL_QLVT
 {
     public class DALChat
     {
-        private static string connectionString = @"Data Source=DESKTOP-NPO91IS\SQLEXPRESS;Initial Catalog=QuanLyVatTuXayDung;Integrated Security=True;Trust Server Certificate=True";
+        public static string connectionString = ConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString;
         public static DataTable TimNhanVien(string tuKhoa)
         {
 

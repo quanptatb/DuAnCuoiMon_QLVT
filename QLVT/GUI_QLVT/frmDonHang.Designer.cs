@@ -101,7 +101,7 @@
             label2.ForeColor = Color.Black;
             label2.Location = new Point(283, 458);
             label2.Name = "label2";
-            label2.Size = new Size(82, 28);
+            label2.Size = new Size(66, 21);
             label2.TabIndex = 0;
             label2.Text = "Mã Đơn";
             // 
@@ -113,7 +113,7 @@
             label7.ForeColor = Color.Black;
             label7.Location = new Point(283, 224);
             label7.Name = "label7";
-            label7.Size = new Size(98, 28);
+            label7.Size = new Size(78, 21);
             label7.TabIndex = 0;
             label7.Text = "Mã Khách";
             // 
@@ -125,7 +125,7 @@
             label3.ForeColor = Color.Black;
             label3.Location = new Point(924, 232);
             label3.Name = "label3";
-            label3.Size = new Size(102, 28);
+            label3.Size = new Size(83, 21);
             label3.TabIndex = 0;
             label3.Text = "Nhân Viên";
             // 
@@ -137,7 +137,7 @@
             label4.ForeColor = Color.Black;
             label4.Location = new Point(924, 341);
             label4.Name = "label4";
-            label4.Size = new Size(95, 28);
+            label4.Size = new Size(75, 21);
             label4.TabIndex = 0;
             label4.Text = "Ngày Đặt";
             // 
@@ -149,7 +149,7 @@
             label8.ForeColor = Color.Black;
             label8.Location = new Point(283, 340);
             label8.Name = "label8";
-            label8.Size = new Size(101, 28);
+            label8.Size = new Size(82, 21);
             label8.TabIndex = 9;
             label8.Text = "Trạng Thái";
             // 
@@ -208,7 +208,7 @@
             label5.ForeColor = Color.Black;
             label5.Location = new Point(924, 453);
             label5.Name = "label5";
-            label5.Size = new Size(81, 28);
+            label5.Size = new Size(66, 21);
             label5.TabIndex = 16;
             label5.Text = "Ghi Chú";
             // 
@@ -356,7 +356,7 @@
             dtpNgayDat.CustomizableEdges = customizableEdges15;
             dtpNgayDat.FillColor = Color.White;
             dtpNgayDat.Font = new Font("Segoe UI", 12F);
-            dtpNgayDat.Format = DateTimePickerFormat.Long;
+            dtpNgayDat.Format = DateTimePickerFormat.Custom;
             dtpNgayDat.Location = new Point(1058, 333);
             dtpNgayDat.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             dtpNgayDat.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
@@ -469,10 +469,10 @@
             // tabPage1
             // 
             tabPage1.Controls.Add(guna2GroupBox1);
-            tabPage1.Location = new Point(4, 44);
+            tabPage1.Location = new Point(4, 37);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(1639, 927);
+            tabPage1.Size = new Size(1639, 934);
             tabPage1.TabIndex = 0;
             tabPage1.Text = "Thông tin";
             tabPage1.UseVisualStyleBackColor = true;
@@ -480,10 +480,10 @@
             // tabPage2
             // 
             tabPage2.Controls.Add(guna2GroupBox2);
-            tabPage2.Location = new Point(4, 44);
+            tabPage2.Location = new Point(4, 24);
             tabPage2.Name = "tabPage2";
             tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(1639, 927);
+            tabPage2.Size = new Size(1639, 947);
             tabPage2.TabIndex = 1;
             tabPage2.Text = "Danh sách";
             tabPage2.UseVisualStyleBackColor = true;
@@ -538,7 +538,6 @@
             dgvDSDon.ReadOnly = true;
             dgvDSDon.RowHeadersVisible = false;
             dgvDSDon.RowHeadersWidth = 51;
-            dgvDSDon.RowTemplate.Height = 25;
             dgvDSDon.Size = new Size(1643, 789);
             dgvDSDon.TabIndex = 2;
             dgvDSDon.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
@@ -567,7 +566,7 @@
             // 
             // frmDonHang
             // 
-            AutoScaleDimensions = new SizeF(14F, 35F);
+            AutoScaleDimensions = new SizeF(11F, 28F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1645, 1055);
             Controls.Add(panel1);
