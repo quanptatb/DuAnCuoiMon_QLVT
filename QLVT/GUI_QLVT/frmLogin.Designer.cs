@@ -50,17 +50,19 @@
             // 
             // guna2HtmlLabel1
             // 
+            guna2HtmlLabel1.Anchor = AnchorStyles.None;
             guna2HtmlLabel1.BackColor = Color.Transparent;
             guna2HtmlLabel1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel1.ForeColor = Color.FromArgb(128, 255, 255);
-            guna2HtmlLabel1.Location = new Point(859, 310);
+            guna2HtmlLabel1.Location = new Point(839, 241);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(145, 30);
+            guna2HtmlLabel1.Size = new Size(117, 23);
             guna2HtmlLabel1.TabIndex = 4;
             guna2HtmlLabel1.Text = "Tên đăng nhập";
             // 
             // panel1
             // 
+            panel1.Anchor = AnchorStyles.None;
             panel1.BackgroundImage = (Image)resources.GetObject("panel1.BackgroundImage");
             panel1.BackgroundImageLayout = ImageLayout.Stretch;
             panel1.Location = new Point(-324, -58);
@@ -70,6 +72,7 @@
             // 
             // btnExit
             // 
+            btnExit.Anchor = AnchorStyles.None;
             btnExit.BackColor = Color.Transparent;
             btnExit.BorderColor = Color.Cyan;
             btnExit.BorderRadius = 30;
@@ -82,7 +85,7 @@
             btnExit.FillColor = Color.DarkTurquoise;
             btnExit.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             btnExit.ForeColor = Color.White;
-            btnExit.Location = new Point(859, 690);
+            btnExit.Location = new Point(839, 621);
             btnExit.Name = "btnExit";
             btnExit.ShadowDecoration.CustomizableEdges = customizableEdges2;
             btnExit.Size = new Size(453, 65);
@@ -92,6 +95,7 @@
             // 
             // btnLogin
             // 
+            btnLogin.Anchor = AnchorStyles.None;
             btnLogin.BackColor = Color.Transparent;
             btnLogin.BorderColor = Color.Cyan;
             btnLogin.BorderRadius = 30;
@@ -104,7 +108,7 @@
             btnLogin.FillColor = Color.DeepSkyBlue;
             btnLogin.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             btnLogin.ForeColor = Color.White;
-            btnLogin.Location = new Point(859, 609);
+            btnLogin.Location = new Point(839, 540);
             btnLogin.Name = "btnLogin";
             btnLogin.ShadowDecoration.CustomizableEdges = customizableEdges4;
             btnLogin.Size = new Size(453, 65);
@@ -114,6 +118,7 @@
             // 
             // txtPassword
             // 
+            txtPassword.Anchor = AnchorStyles.None;
             txtPassword.BackColor = Color.Transparent;
             txtPassword.BorderColor = Color.Cyan;
             txtPassword.BorderRadius = 25;
@@ -130,7 +135,7 @@
             txtPassword.IconLeft = Properties.Resources.pass_removebg_preview1;
             txtPassword.IconLeftOffset = new Point(10, 0);
             txtPassword.IconLeftSize = new Size(30, 30);
-            txtPassword.Location = new Point(859, 472);
+            txtPassword.Location = new Point(839, 403);
             txtPassword.Margin = new Padding(4, 6, 4, 6);
             txtPassword.Name = "txtPassword";
             txtPassword.PasswordChar = '*';
@@ -142,13 +147,14 @@
             // 
             // chkPassword
             // 
+            chkPassword.Anchor = AnchorStyles.None;
             chkPassword.AutoSize = true;
             chkPassword.BackColor = Color.Transparent;
             chkPassword.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             chkPassword.ForeColor = Color.FromArgb(128, 255, 255);
-            chkPassword.Location = new Point(859, 539);
+            chkPassword.Location = new Point(839, 470);
             chkPassword.Name = "chkPassword";
-            chkPassword.Size = new Size(205, 32);
+            chkPassword.Size = new Size(166, 25);
             chkPassword.TabIndex = 6;
             chkPassword.Text = "Hiển thị mật khẩu";
             chkPassword.UseVisualStyleBackColor = false;
@@ -156,17 +162,19 @@
             // 
             // guna2HtmlLabel2
             // 
+            guna2HtmlLabel2.Anchor = AnchorStyles.None;
             guna2HtmlLabel2.BackColor = Color.Transparent;
             guna2HtmlLabel2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel2.ForeColor = Color.FromArgb(128, 255, 255);
-            guna2HtmlLabel2.Location = new Point(859, 433);
+            guna2HtmlLabel2.Location = new Point(839, 364);
             guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            guna2HtmlLabel2.Size = new Size(93, 30);
+            guna2HtmlLabel2.Size = new Size(75, 23);
             guna2HtmlLabel2.TabIndex = 5;
             guna2HtmlLabel2.Text = "Mật khẩu";
             // 
             // txtEmail
             // 
+            txtEmail.Anchor = AnchorStyles.None;
             txtEmail.BorderColor = Color.Cyan;
             txtEmail.BorderRadius = 25;
             txtEmail.CustomizableEdges = customizableEdges7;
@@ -181,7 +189,7 @@
             txtEmail.IconLeft = Properties.Resources.user_removebg_preview1;
             txtEmail.IconLeftOffset = new Point(5, 0);
             txtEmail.IconLeftSize = new Size(30, 30);
-            txtEmail.Location = new Point(859, 349);
+            txtEmail.Location = new Point(839, 280);
             txtEmail.Margin = new Padding(4, 6, 4, 6);
             txtEmail.Name = "txtEmail";
             txtEmail.PasswordChar = '\0';
@@ -193,19 +201,20 @@
             // 
             // lblQuenMatKhau
             // 
+            lblQuenMatKhau.Anchor = AnchorStyles.None;
             lblQuenMatKhau.BackColor = Color.Transparent;
             lblQuenMatKhau.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblQuenMatKhau.ForeColor = Color.FromArgb(128, 255, 255);
-            lblQuenMatKhau.Location = new Point(1164, 539);
+            lblQuenMatKhau.Location = new Point(1144, 470);
             lblQuenMatKhau.Name = "lblQuenMatKhau";
-            lblQuenMatKhau.Size = new Size(148, 30);
+            lblQuenMatKhau.Size = new Size(120, 23);
             lblQuenMatKhau.TabIndex = 35;
             lblQuenMatKhau.Text = "Quên mật khẩu";
             lblQuenMatKhau.Click += lblQuenMatKhau_Click;
             // 
             // frmLogin
             // 
-            AutoScaleDimensions = new SizeF(11F, 28F);
+            AutoScaleDimensions = new SizeF(9F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.SteelBlue;
             ClientSize = new Size(1360, 961);

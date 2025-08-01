@@ -66,6 +66,16 @@ namespace GUI_QLVT
                 dgvKetQua.AutoGenerateColumns = true;
                 dgvKetQua.DataSource = BUSChatbot.LastResult;
                 dgvKetQua.ColumnHeadersVisible = true;
+                //đặt tên cột
+                dgvKetQua.Columns[0].HeaderText = "Mã hàng";
+                dgvKetQua.Columns[1].HeaderText = "Tên hàng";
+                dgvKetQua.Columns[2].HeaderText = "Số lượng";
+                dgvKetQua.Columns[3].HeaderText = "Đơn giá";
+                dgvKetQua.Columns[4].HeaderText = "Đơn vị tính";
+                dgvKetQua.Columns[5].HeaderText = "Nhà cung cấp";
+                dgvKetQua.Columns[6].HeaderText = "Ngày nhập";
+                dgvKetQua.Columns[7].HeaderText = "Nhân viên nhập";
+                dgvKetQua.Columns[8].HeaderText = "Ghi chú";
                 BUSChatbot.LastResult = null; // reset
             }
             else

@@ -72,12 +72,13 @@ namespace GUI_QLVT
         }
         private void lblQuenMatKhau_MouseHover(object sender, EventArgs e)
         {
-            lblQuenMatKhau.Cursor = Cursors.Hand; // Đổi con trỏ thành bàn tay
             lblQuenMatKhau.Font = new Font(lblQuenMatKhau.Font, FontStyle.Underline);
+            //đổi con tro
+            lblQuenMatKhau.Cursor = Cursors.Hand; // Đổi con trỏ thành hình bàn tay
         }
         private void lblQuenMatKhau_MouseLeave(object sender, EventArgs e)
         {
-            lblQuenMatKhau.Font = new Font(lblQuenMatKhau.Font, FontStyle.Regular);
+            lblQuenMatKhau.Font = new Font(lblQuenMatKhau.Font, FontStyle.Bold);
             lblQuenMatKhau.ForeColor = Color.FromArgb( 128, 255, 255); // Màu mặc định
         }
         private void lblQuenMatKhau_Click(object sender, EventArgs e)
