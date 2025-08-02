@@ -45,14 +45,24 @@ namespace BLL_QLVT
                 throw new Exception("Lỗi khi tạo mã phiếu nhập: " + ex.Message);
             }
         }
+        // Trong file BLL_QLVT/BUSPhieuNhapKho.cs
+
         public void InsertPhieuNhapKho(PhieuNhapKho phieuNhap)
         {
             try
             {
-                DALPhieuNhapKho.Insert(phieuNhap);
+                // Gọi phương thức DAL, phương thức này sẽ trả về mã mới
+                string newId = DALPhieuNhapKho.Insert(phieuNhap);
+                if (string.IsNullOrEmpty(newId))
+                {
+                    throw new Exception("Không thể tạo phiếu nhập mới từ CSDL.");
+                }
+                // Gán lại mã mới cho đối tượng, phòng trường hợp cần dùng sau này
+                phieuNhap.PhieuNhapID = newId;
             }
             catch (Exception ex)
             {
+                // Ném lại lỗi để lớp GUI có thể bắt và hiển thị
                 throw new Exception("Lỗi khi thêm phiếu nhập kho: " + ex.Message);
             }
         }

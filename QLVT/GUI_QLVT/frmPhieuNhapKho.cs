@@ -132,10 +132,10 @@ namespace GUI_QLVT
                 return;
             }
 
-            // Tạo một đối tượng PhieuNhapKho mới trong bộ nhớ
+            // Tạo đối tượng PhieuNhapKho mà không cần gán PhieuNhapID
             PhieuNhapKho newPhieuNhap = new PhieuNhapKho
             {
-                PhieuNhapID = busPhieuNhapKho.GenerateMaPN(),
+                // PhieuNhapID sẽ được CSDL tự tạo
                 NhaCungCapID = cbxNhaCungCap.SelectedValue.ToString(),
                 NhanVienID = cbxNhanVien.SelectedValue.ToString(),
                 NgayNhap = dtpNgayNhap.Value,

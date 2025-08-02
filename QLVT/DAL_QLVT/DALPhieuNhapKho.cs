@@ -56,19 +56,36 @@ namespace DAL_QLVT
             return $"{prefix}001";
         }
 
-        public void Insert(PhieuNhapKho phieuNhap)
+        public string Insert(PhieuNhapKho phieuNhap)
         {
-            string sql = "INSERT INTO PhieuNhapKho (PhieuNhapID, NhaCungCapID, NhanVienID, NgayNhap, GhiChu) " +
-                         "VALUES (@0, @1, @2, @3, @4)";
-            List<object> args = new List<object>
+            // Sử dụng try-catch để bắt lỗi
+            try
             {
-                phieuNhap.PhieuNhapID,
-                phieuNhap.NhaCungCapID,
-                phieuNhap.NhanVienID,
-                phieuNhap.NgayNhap,
-                phieuNhap.GhiChu
-            };
-            DBUtil.Update(sql, args);
+                // Tạo một đối tượng SqlCommand mới
+                using (SqlCommand cmd = new SqlCommand("sp_PhieuNhapKho_Insert", new SqlConnection(DBUtil.connString)))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    // Thêm các tham số với tên chính xác khớp với Stored Procedure
+                    cmd.Parameters.AddWithValue("@NhaCungCapID", phieuNhap.NhaCungCapID);
+                    cmd.Parameters.AddWithValue("@NhanVienID", phieuNhap.NhanVienID);
+                    cmd.Parameters.AddWithValue("@NgayNhap", phieuNhap.NgayNhap);
+                    cmd.Parameters.AddWithValue("@GhiChu", string.IsNullOrEmpty(phieuNhap.GhiChu) ? (object)DBNull.Value : phieuNhap.GhiChu);
+
+                    // Mở kết nối và thực thi
+                    cmd.Connection.Open();
+                    object newId = cmd.ExecuteScalar(); // Dùng ExecuteScalar để nhận lại giá trị trả về
+                    cmd.Connection.Close();
+
+                    // Trả về mã mới đã được tạo
+                    return newId?.ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                // Ném lại lỗi để lớp BLL và GUI có thể xử lý
+                throw ex;
+            }
         }
 
         public void Update(PhieuNhapKho phieuNhap)
@@ -77,7 +94,6 @@ namespace DAL_QLVT
                          "WHERE PhieuNhapID = @0";
             List<object> args = new List<object>
             {
-                phieuNhap.PhieuNhapID,
                 phieuNhap.NhaCungCapID,
                 phieuNhap.NhanVienID,
                 phieuNhap.NgayNhap,
